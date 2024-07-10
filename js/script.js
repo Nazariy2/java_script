@@ -40,7 +40,7 @@
 
 // window.console.log()
 
-const isUserAccepted = confirm("please accept cookies");
+// const isUserAccepted = confirm("please accept cookies");
 
 // console.log("isUserAccepted", isUserAccepted);
 
@@ -62,4 +62,41 @@ const isUserAccepted = confirm("please accept cookies");
 
 // console.log("message");
 
-console.log('1' + 1);
+// console.log('1' + 1);
+
+let age = 16;
+console.log('I am ',age, 'years old');
+
+let userName = 'Nazariy';
+console.log( 'My name is',userName);
+
+let isStudent = true;
+console.log('Nazariy is a student? =>',isStudent);
+
+let myString = 'its not about how hard you hit. its about how hard you can get hit and keep moving forward';
+console.log(myString)
+
+let number = 20;
+console.log(number + 10);
+
+let myNull = null;
+console.log(myNull);
+
+let name = prompt("Введіть ваше ім'я:");
+alert('Hello ' + name + ' !');
+
+
+let userConfirmation = confirm("Ви хочете підтвердити дію?");
+if (userConfirmation) {
+    alert("Дякую за підтвердження!");
+} else {
+    alert("Дію відмінено!");
+}
+
+alert("Увага! Ця дія може бути небезпечною.");
+let danger = confirm("Ви впевнені, що хочете продовжити?")
+if(danger){
+    alert("Дякую за підтвердження!");
+} else {
+    alert("Дію відмінено!");
+}
