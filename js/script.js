@@ -192,4 +192,7 @@
 // const cat =4;
 // const sum = (cat1 * 2) + (cat * 2);
 // const gip = Math.sqrt(sum);
-// console.log(gip);
+    // console.log(gip);
+
+
+
