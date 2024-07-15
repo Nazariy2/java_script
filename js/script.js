@@ -188,8 +188,8 @@
 // console.log(Number(y.toFixed(2)));
 // console.log(Number(z.toFixed(2)));
 
-const cat1 =20;
-const cat =4;
-const sum = (cat1 * 2) + (cat * 2);
-const gip = Math.sqrt(sum);
-console.log(gip);
+// const cat1 =20;
+// const cat =4;
+// const sum = (cat1 * 2) + (cat * 2);
+// const gip = Math.sqrt(sum);
+// console.log(gip);
