@@ -8,16 +8,16 @@
 //     console.log()
 // }
 
-const a = "fda";
-const b = null;
-const c = true;
-const d ='Hello';
-const e = 32;
+// const a = "fda";
+// const b = null;
+// const c = true;
+// const d ='Hello';
+// const e = 32;
 
 // console.log( Boolean(a &&  b && c && d && e > 10));
-if(a &&  !b && c && d && e > 10){
-    console.log(" correct deal");
-}
+// if(a &&  !b && c && d && e > 10){
+//     console.log(" correct deal");
+// }
 // console.log(a ||  b || c || d || e > 10);
 
 // if(a ||  b || c || d || e > 10){
@@ -30,3 +30,4 @@ if(a &&  !b && c && d && e > 10){
 // const temp = a || d;
 
 // console.log(temp);
+
